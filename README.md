@@ -1,4 +1,4 @@
-## Hi, I'm Carlota Jaime Barquero
+## Hi, I'm Carlota Jaime Barquero 👋
 
 ### About me
 I am a Microbiologist and Bioinformatician graduated from the Universitat Autònoma de Barcelona (UAB), currently in the first year of my PhD at the Germans Trias i Pujol Research Institute (IGTP).  
