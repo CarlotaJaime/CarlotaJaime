@@ -7,7 +7,7 @@ Additionally, I-m focused in exploring the virulence of clinical enterococci, sp
 
 This work aims to provide robust scientific evidence on the incremental value of ONT in hospital genomic surveillance.
 
-### Main interests
+### Main interests 🧬
 ![Microbiology](https://img.shields.io/badge/microbiology-9F79EE?style=for-the-badge)
 ![Genomics](https://img.shields.io/badge/genomics-87CEFF?style=for-the-badge)
 ![Epidemiology](https://img.shields.io/badge/epidemiology-DB7093?style=for-the-badge)
@@ -15,7 +15,7 @@ This work aims to provide robust scientific evidence on the incremental value of
 ![Enterococci](https://img.shields.io/badge/enterococci-CD6839?style=for-the-badge)
 ![Antimicrobial resistance](https://img.shields.io/badge/antimicrobial_resistance-CD5555?style=for-the-badge)
 
-### Experience
+### Experience 🖥️
 ![GitHub](https://img.shields.io/badge/github-CDC9C9?logo=github)
 ![Galaxy](https://img.shields.io/badge/galaxy-FFD39B?logo=galaxy)
 ![R](https://img.shields.io/badge/r-87CEFA?logo=r)
@@ -24,3 +24,5 @@ This work aims to provide robust scientific evidence on the incremental value of
 ![Linux](https://img.shields.io/badge/linux-black?logo=linux)  
 
 Currently learning Groovy to create ![Nextflow](https://img.shields.io/badge/nextflow-E0FFFF?logo=nextflow) scripts!
+
+Pipeline in development: ![Hybrid assembly](https://github.com/CarlotaJaime/ENTEROBIOTA-Hybrid_assembly.git) 📝
