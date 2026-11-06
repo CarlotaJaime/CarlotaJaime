@@ -8,18 +8,18 @@ Additionally, I-m focused in exploring the virulence of clinical enterococci, sp
 This work aims to provide robust scientific evidence on the incremental value of ONT in hospital genomic surveillance.
 
 ### Main interests
-![Microbiology](https://img.shields.io/badge/microbiology-lightblue?style=for-the-badge)
-![Genomics](https://img.shields.io/badge/genomics-purple?style=for-the-badge)
-![Epidemiology](https://img.shields.io/badge/epidemiology-green?style=for-the-badge)
-![Mobile genetic elements](https://img.shields.io/badge/mobile_genetic_elements-pink?style=for-the-badge)
-![Enterococci](https://img.shields.io/badge/enterococci-darkblue?style=for-the-badge)
-![Antimicrobial resistance](https://img.shields.io/badge/antimicrobial_resistance-pink?style=for-the-badge)
+![Microbiology](https://img.shields.io/badge/microbiology-9F79EE?style=for-the-badge)
+![Genomics](https://img.shields.io/badge/genomics-87CEFF?style=for-the-badge)
+![Epidemiology](https://img.shields.io/badge/epidemiology-DB7093?style=for-the-badge)
+![Mobile genetic elements](https://img.shields.io/badge/mobile_genetic_elements-EE6A50?style=for-the-badge)
+![Enterococci](https://img.shields.io/badge/enterococci-EE6AA7?style=for-the-badge)
+![Antimicrobial resistance](https://img.shields.io/badge/antimicrobial_resistance-CD5555?style=for-the-badge)
 
 ### Experience
-https://img.shields.io/badge/github-?logo=github
-https://img.shields.io/badge/galaxy-?logo=galaxy
-https://img.shields.io/badge/r-?logo=r
-https://img.shields.io/badge/python-?logo=python
-https://img.shields.io/badge/bash-?logo=bash
-https://img.shields.io/badge/linux-?logo=linux  
-Currently learning Groovy to create https://img.shields.io/badge/nextflow-?logo=nextflow scripts!
+![GitHub](https://img.shields.io/badge/github-CDC9C9?logo=github)
+![Galaxy](https://img.shields.io/badge/galaxy-CDC673?logo=galaxy)
+![R](https://img.shields.io/badge/r-87CEFA?logo=r)
+![Python](https://img.shields.io/badge/python-FFD700?logo=python)
+![Bash](https://img.shields.io/badge/bash-CD661D?logo=bash)
+![Linux](https://img.shields.io/badge/linux-EECBAD?logo=linux)  
+Currently learning Groovy to create ![Nextflow](https://img.shields.io/badge/nextflow-00E5EE?logo=nextflow) scripts!
