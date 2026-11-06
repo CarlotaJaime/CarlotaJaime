@@ -8,12 +8,12 @@ Additionally, I-m focused in exploring the virulence of clinical enterococci, sp
 This work aims to provide robust scientific evidence on the incremental value of ONT in hospital genomic surveillance.
 
 ### Main interests
-![Microbiology] (https://img.shields.io/badge/microbiology-lightblue?style=for-the-badge)
-![Genomics] (https://img.shields.io/badge/genomics-purple?style=for-the-badge)
-![Genomics] (https://img.shields.io/badge/epidemiology-green?style=for-the-badge)
-![Genomics] (https://img.shields.io/badge/mobile_genetic_elements-pink?style=for-the-badge)
-![Genomics] (https://img.shields.io/badge/enterococci-darkblue?style=for-the-badge)
-![Genomics] (https://img.shields.io/badge/antimicrobial_resistance-pink?style=for-the-badge)
+![Microbiology](https://img.shields.io/badge/microbiology-lightblue?style=for-the-badge)
+![Genomics](https://img.shields.io/badge/genomics-purple?style=for-the-badge)
+![Epidemiology](https://img.shields.io/badge/epidemiology-green?style=for-the-badge)
+![Mobile genetic elements](https://img.shields.io/badge/mobile_genetic_elements-pink?style=for-the-badge)
+![Enterococci](https://img.shields.io/badge/enterococci-darkblue?style=for-the-badge)
+![Antimicrobial resistance](https://img.shields.io/badge/antimicrobial_resistance-pink?style=for-the-badge)
 
 ### Experience
 https://img.shields.io/badge/github-?logo=github
