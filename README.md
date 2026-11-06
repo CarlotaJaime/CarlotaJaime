@@ -25,4 +25,4 @@ This work aims to provide robust scientific evidence on the incremental value of
 
 Currently learning Groovy to create ![Nextflow](https://img.shields.io/badge/nextflow-E0FFFF?logo=nextflow) scripts!
 
-Pipeline in development: ![Hybrid assembly](https://github.com/CarlotaJaime/ENTEROBIOTA-Hybrid_assembly.git) 📝
+Pipeline in development: [Hybrid assembly](https://github.com/CarlotaJaime/ENTEROBIOTA-Hybrid_assembly.git) 📝
